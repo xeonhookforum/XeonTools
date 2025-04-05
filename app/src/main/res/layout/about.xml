@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF">
+    android:background="#1b1b1b">
 
     <Button
         android:id="@+id/backAbout"
@@ -23,8 +23,8 @@
         android:layout_height="24dp"
         android:layout_marginEnd="299dp"
         android:layout_marginBottom="24dp"
-        android:text="Version: 1.0.R"
-        android:textColor="#000000"
+        android:text="Version: 1.0.D1"
+        android:textColor="#ffff"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -37,7 +37,7 @@
         android:layout_width="412dp"
         android:layout_height="51dp"
         android:text="XeonTools the most basic app to see hardware info + some hardware tools"
-        android:textColor="#000000"
+        android:textColor="#fff"
         android:textSize="20sp"
         android:visibility="visible"
         app:layout_constraintStart_toStartOf="parent"
